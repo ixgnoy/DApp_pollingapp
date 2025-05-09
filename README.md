@@ -3,10 +3,10 @@
 This is a Web3-based decentralized voting application built with Ethereum, Solidity, Hardhat, and React. It allows users to securely cast votes through a smart contract deployed on the Ethereum blockchain. The project includes a user-friendly frontend for voters and administrators, contract deployment/testing scripts, and smart contract interaction via JSON-RPC and ABI.
 
 Tech Stack:
-Frontend: React, JavaScript
-Blockchain: Solidity, Hardhat, Ethereum (RPC)
-Smart Contract Testing & Deployment: Hardhat, JavaScript
-Wallet Integration: MetaMask or any Web3-compatible wallet
+- Frontend: React, JavaScript
+- Blockchain: Solidity, Hardhat, Ethereum (RPC)
+- Smart Contract Testing & Deployment: Hardhat, JavaScript
+- Wallet Integration: MetaMask or any Web3-compatible wallet
 
 
 Features:
