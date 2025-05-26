@@ -2,9 +2,9 @@
 
 *Empowering secure, transparent elections for everyone.*
 
-![last-commit](https://img.shields.io/github/last-commit/your-username/your-repo-name)
-![repo-top-language](https://img.shields.io/github/languages/top/your-username/your-repo-name)
-![repo-language-count](https://img.shields.io/github/languages/count/your-username/your-repo-name)
+![last-commit](https://img.shields.io/github/last-commit/ixgnoy/DApp_pollingapp)
+![repo-top-language](https://img.shields.io/github/languages/top/ixgnoy/DApp_pollingapp)
+![repo-language-count](https://img.shields.io/github/languages/count/ixgnoy/DApp_pollingapp)
 
 ---
 
