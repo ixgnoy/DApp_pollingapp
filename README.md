@@ -5,6 +5,8 @@
 ![last-commit](https://img.shields.io/github/last-commit/ixgnoy/DApp_pollingapp)
 ![repo-top-language](https://img.shields.io/github/languages/top/ixgnoy/DApp_pollingapp)
 ![repo-language-count](https://img.shields.io/github/languages/count/ixgnoy/DApp_pollingapp)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ixgnoy.DApp_pollingapp)
+
 
 ---
 
